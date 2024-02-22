@@ -1,1 +1,1 @@
-Aqui será o repositório para utilizaão de jars para implementação de projetos
+Aqui será o repositório para utilização de jars para implementação de projetos
